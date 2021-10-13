@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Dambox'
+copyright = '2020, CNES'
+author = 'CNES'
 
 release = '0.1'
 version = '0.1.0'
