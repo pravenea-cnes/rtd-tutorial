@@ -1,4 +1,4 @@
-# DamBOX2
+# DamBOX_
 
 DamBOX is a software developed in C++ that intermittently releases the packet on the interface, like a dam : using netfilter, incoming packets are intercepted and blocked until released at the interface goodput. The user specifies the duration and frequency of the blocking and releasing function. DamBOX can be used to emulate beam hopping in satellite telecommunication system.
 
@@ -26,7 +26,7 @@ DamBOX is a multilayer filter. It operates at the network level and then at the 
 
 <details><summary>Deploy to see the detailed design document</summary>
 
-![Architecture of DamBOX](archi_dambox.png?raw=true)
+![Architecture of DamBOX](archi_dambox.png)
 
 The help for setting the executable can be obtained by using the command:
 
