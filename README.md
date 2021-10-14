@@ -26,7 +26,7 @@ DamBOX is a multilayer filter. It operates at the network level and then at the 
 
 <details><summary>Deploy to see the detailed design document</summary>
 
-![Architecture of DamBOX](archi_dambox.png)
+![Architecture of DamBOX](archi_dambox.png?raw=true)
 
 The help for setting the executable can be obtained by using the command:
 
